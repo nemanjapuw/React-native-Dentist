@@ -1,0 +1,9 @@
+{
+    "role": {
+        "admin": "Admin"
+    },
+    "see-all-comments": "See all comments",
+    "news": {
+        "title": "News"
+    }
+}
